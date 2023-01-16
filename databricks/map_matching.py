@@ -74,7 +74,9 @@
 # MAGIC 
 # MAGIC # DATASETs
 # MAGIC 
-# MAGIC https://sci-hub.ru/10.1109/ivs.2015.7225829SSSSSSSSSSSSSSSSSSSSSSSSSS
+# MAGIC 1. https://sci-hub.ru/10.1109/ivs.2015.7225829
+# MAGIC 2. https://www.microsoft.com/en-us/research/publication/hidden-markov-map-matching-noise-sparseness/
+# MAGIC 3. https://www.cs.utah.edu/~lifeifei/SpatialDataset.htm (road network)
 
 # COMMAND ----------
 
